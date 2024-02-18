@@ -12,7 +12,8 @@ Top 5 democratic and republican YouTube channels are selected based on the numbe
 - Guns: Shootings, School shooting, Firearms, Gun control, NRA, Second Amendment
 - Immigration: Border control, Mexico, Visa /Citizenship, Asylum, Deportation, Refugee
 - Economy: Budget deficit, Unemployment, Inflation, Interest rate, Federal Reserve, Market, Employment
-- Health care: Medicaid, Covid, Obamacare, Public health, Insurance, Socio-economic, Rich / poor, Income inequality, Poverty, Wealth distribution
+- Health care: Medicaid, Covid, Obamacare, Public health, Insurance
+- Socio-economic: Rich / poor, Income inequality, Poverty, Wealth distribution
 - Abortion: Pregnancy, Unwanted Pregnancy, Roe, Wade, Abortion, Pro-life, Rape, Incest, Life of mother, Religion
 - Climate change, Global Warming, Carbo, Alternative Energy, Climate, Methane, Emissions, Gas, Greenhouse
 
