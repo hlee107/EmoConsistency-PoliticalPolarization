@@ -22,3 +22,8 @@ We have identified eight key ideologies for this analysis to understand if there
 - **Abortion**: Pregnancy, Unwanted Pregnancy, Roe, Wade, Abortion, Pro-life, Rape, Incest, Life of mother, Religion
 - **Climate change**: Global Warming, Carbo, Alternative Energy, Climate, Methane, Emissions, Gas, Greenhouse
 
+## Credit Listing
+- Hanna: Democratic-leaning Channels Data Collection
+- Chance: Republican-leaning Channels Data Collection
+- Andy: Exploratory Data Analysis
+- Jason: Text Documentation
